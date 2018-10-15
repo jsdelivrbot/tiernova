@@ -1,4 +1,4 @@
-# tiernova airsoft team site
+# Tiernova airsoft team site
 
 ## Running Locally
 
@@ -6,7 +6,7 @@ Make sure you have [Node.js](http://nodejs.org/)
 
 ```sh
 $ git clone https://github.com/marutkin/tiernova.git # or clone your own fork
-$ cd node-js-getting-started
+$ cd tiernova
 $ npm install
 $ npm start
 ```
